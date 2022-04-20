@@ -6,8 +6,11 @@ Hello_world.py is a simple file that asks the user for their name and says hello
 
 # Development Environment
 
-For this project I used vscode as my IDE and the python language to write the code.
+* Visual Studio Code
+* Python 3.10.2 32-bit
+* Github
 
 # Useful Websites
 
 * [Python Library](https://docs.python.org/3.10/library/)
+* [Visual Studio Code & GitHub](https://code.visualstudio.com/docs/editor/versioncontrol)
